@@ -1,0 +1,4 @@
+2026-04-05 12:36:10 | DEBUG    | bot.client           | place_futures_order params: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'timeInForce': 'GTC', 'quantity': 0.002, 'price': 100000.0}
+2026-04-05 12:36:10 | DEBUG    | bot.client           | place_futures_order response: {'orderId': 28491568902, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJyyyyyyyyyyyyyy', 'price': '100000.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0', 'cumQty': '0', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'updateTime': 1775373370988}
+2026-04-05 12:36:10 | INFO     | bot.client           | Futures order placed successfully
+2026-04-05 12:36:10 | INFO     | bot.orders           | Limit order completed: id=28491568902 status=NEW symbol=BTCUSDT

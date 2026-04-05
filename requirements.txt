@@ -1,0 +1,6 @@
+python-binance>=1.0.19
+click>=8.1
+python-dotenv>=1.0
+colorama>=0.4
+tabulate>=0.9
+pytest>=7.0
